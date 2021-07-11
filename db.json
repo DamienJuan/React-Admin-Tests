@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "Post Body",
+      "publishedAt": "2021-07-11"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "Post Body",
+      "publishedAt": "2021-07-11"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "Post Body",
+      "publishedAt": "2021-07-11"
+    },
+    {
+      "title": "Post Four",
+      "body": "Body Four",
+      "publishedAt": "2021-07-11",
+      "id": "gjP42PA"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Damien Juan",
+      "email": "damien.juan@epitech.eu"
+    },
+    {
+      "name": "DevBot",
+      "email": "dev@bot.com",
+      "id": "3et_SUt"
+    }
+  ]
+}
